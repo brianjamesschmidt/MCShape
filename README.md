@@ -34,4 +34,4 @@ One day, when there is time, I might update this and add a GUI...
 Release history
 Release		Date           Notes
 -----------------------------------------------------------------------------------------
-03.0		12.22.2009     -Updated on MATLAB Central
+03.0		12.21.2009     -Last update to package as distributed on MATLAB Central.
